@@ -7,13 +7,13 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "mohammadayan55505@gmail.com",
-    "PASSWORD": "ayanfcal22",
+    "EMAIL": "",
+    "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "botnickname",
-    "PREFIX": "Bot-prefix",
+    "BOTNAME": "Krishna🥀🎭",
+    "PREFIX": "#",
     "ADMINBOT": [
-        "USERID1",
+        "61552656562989",
         "USERID2"
     ],
     "DATABASE": {

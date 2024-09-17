@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/oapEhQg.gif" width="50" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
-🔹AYAN CHOWDHURY
+🔹Faiz Ansari
 </h5>
 <img src="https://i.postimg.cc/sgXh76X4/received-443931458309917.jpg" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> AYAN BOT - Bot Chat Messenger</h1>

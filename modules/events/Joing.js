@@ -48,7 +48,7 @@ memLength.sort((a, b) => a - b);
                         .replace(/\{threadName}/g, threadName);                        
 
       var link = [
-"https://i.postimg.cc/PfVwZwmn/inbound7165511157120639783.gif",https://i.postimg.cc/tCpxVnC9/inbound196497093692996992.gif",
+"https://i.postimg.cc/PfVwZwmn/inbound7165511157120639783.gif",[![inbound196497093692996992.gif](https://i.postimg.cc/tCpxVnC9/inbound196497093692996992.gif)](https://postimg.cc/qgDRPR3F)",
 "https://i.postimg.cc/9FH4Zpnr/07118ef7abf86395f3f4919dbde76346.gif",
 "https://i.postimg.cc/QtrL0FGk/mars-Marsterpiece1509003.gif",
       ];
